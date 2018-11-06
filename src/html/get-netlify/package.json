@@ -1,0 +1,7 @@
+{
+  "name": "begin-app-get-netlify",
+  "dependencies": {
+    "@architect/functions": "latest",
+    "@begin-functions/data": "latest"
+  }
+}
