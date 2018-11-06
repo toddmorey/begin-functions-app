@@ -6,7 +6,7 @@ let defaultHTML = `
 <html lang=en>
   <head>
     <meta charset=utf-8>
-    <title>Hi!</title>
+    <title>Hi there, Netlify! This is a pretty neat setup.</title>
   </head>
   <body style="font-family: sans-serif;">
     <h1>Hello world!</h1>
