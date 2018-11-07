@@ -6,6 +6,9 @@ get /
 get /netlify
 get /chris
 
+@js
+/script
+
 @css
 /ain
 
