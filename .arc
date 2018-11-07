@@ -6,8 +6,5 @@ get /
 get /netlify
 get /chris
 
-@css
-/ain
-
 @json
 get /todd
