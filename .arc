@@ -5,3 +5,6 @@ augury-a8v
 get /
 get /netlify
 get /chris
+
+@json
+get /todd
